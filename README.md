@@ -8,6 +8,7 @@ In this part, I performed Exploratory Data Analysis (EDA) and data preprocessing
 ## Dataset
 
 - **Dataset:** Adult Income Dataset
+-  **Dataset Link:** https://www.kaggle.com/datasets/uciml/adult-census-income
 - **Input File:** `adult.csv`
 - **Output File:** `cleaned_data.csv`
 
