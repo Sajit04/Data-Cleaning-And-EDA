@@ -1,2 +1,15 @@
 # Data-Cleaning-And-EDA
 Masai Capstone project part 1 Data cleaning and EDA
+Dataset description
+Missing value analysis and why median was chosen
+Duplicate removal summary
+Data type conversions and memory savings
+Descriptive statistics
+Skewness interpretation
+IQR outlier analysis
+Interpretation of line plot, bar chart, histogram, scatter plot, and box plot
+Correlation heatmap analysis
+Mean vs. median comparison
+Spearman vs. Pearson comparison
+Group aggregation findings
+At final created new cleaned csv file
